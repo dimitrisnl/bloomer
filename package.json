@@ -22,7 +22,7 @@
     "awesome-typescript-loader": "^3.2.1",
     "bulma": "^0.4.1",
     "clean-webpack-plugin": "^0.1.16",
-    "coveralls": "^2.13.1",
+    "coveralls": "^3.0.2",
     "cross-env": "^5.0.1",
     "css-loader": "^0.28.1",
     "enzyme": "^2.8.2",
